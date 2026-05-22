@@ -1,0 +1,26 @@
+#Dataset
+The dataset used in this project contains supermarket sales transaction data, including:
+
+- Invoice ID
+- Branch
+- City
+- Customer Type
+- Gender
+- Product Line
+- Unit Price
+- Quantity
+- Tax 5%
+- Total Revenue
+- Date & Time
+- Payment Method
+- COGS
+- Gross Margin Percentage
+- Gross Income
+- Rating
+
+Dataset is used for:
+- Sales analysis
+- Profit analysis
+- Customer behavior analysis
+- Product performance tracking
+- Payment trend visualization
